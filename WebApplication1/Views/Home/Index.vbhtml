@@ -4,9 +4,7 @@ End Code
 
 <div class="jumbotron">
     <h1>ASP.NET</h1>
-    <p class="lead">This is MVC sample application test project
-    Welcome to Accion Labs Bangalore
-    POC By Vinayak Bagalkoti - Accionlabs Whitefield - 6th Floor</p>
+    <p class="lead">Test POC By VB</p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
