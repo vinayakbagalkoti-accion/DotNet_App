@@ -4,7 +4,7 @@ End Code
 
 <div class="jumbotron">
     <h1>ASP.NET</h1>
-    <p class="lead">MVC Sample Code</p>
+    <p class="lead">MVC Sample Code by VB - Accion Bangalore</p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
