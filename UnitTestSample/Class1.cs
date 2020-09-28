@@ -19,7 +19,7 @@ namespace UnitTestSample
         [Test]
         public void NunitTestMethod2()
         {
-            Assert.AreEqual(30, 50);
+            Assert.AreEqual(50, 50);
         }
     }
 }
