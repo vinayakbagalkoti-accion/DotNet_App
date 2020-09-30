@@ -3,7 +3,7 @@
 End Code
 
 <div class="jumbotron">
-    <h1>Accion Labs - Cision Team(Bangalore/Hyderabad)</h1>
+    <h3>Accion Labs - Cision Team(Bangalore/Hyderabad)</h3>
     <p class="lead">CICD POC by .Net Team</p>
     <p>
         VB - Vinayak Bagalkoti <br />
