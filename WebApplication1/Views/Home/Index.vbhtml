@@ -1,10 +1,21 @@
 ﻿@Code
-    ViewData("Title") = "Home Page By .Net Team(VB,RA,A,T,CK,ML,PAD) - Accion labs Bangalore - WhiteField"
+    ViewData("Title") = "Home Page"
 End Code
 
 <div class="jumbotron">
     <h1>ASP.NET</h1>
-    <p class="lead">MVC Sample Code by VB</p>
+    <p class="lead">CICD POC by .Net Team</p>
+    <p>
+        VB - Vinayak Bagalkoti
+        RA - Rakesh Achar
+        AK - Anoop Kumar
+        CR - Chitti
+        KS - Kesava
+        PM - Padmaja
+        SS - Shaik Saleem
+        MB - Madhavi
+        TP - Trupti
+    </p>
     <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
