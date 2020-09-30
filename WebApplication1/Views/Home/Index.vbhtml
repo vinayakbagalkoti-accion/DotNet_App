@@ -3,20 +3,19 @@
 End Code
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
+    <h1>Accion Labs - Cision Team(Bangalore/Hyderabad)</h1>
     <p class="lead">CICD POC by .Net Team</p>
     <p>
-        VB - Vinayak Bagalkoti
-        RA - Rakesh Achar
-        AK - Anoop Kumar
-        CR - Chitti
-        KS - Kesava
-        PM - Padmaja
-        SS - Shaik Saleem
-        MB - Madhavi
-        TP - Trupti
+        VB - Vinayak Bagalkoti <br />
+        RA - Rakesh Achar <br />
+        AK - Anoop Kumar <br />
+        CR - Chitti <br />
+        KS - Kesava <br />
+        PM - Padmaja <br />
+        SS - Shaik Saleem <br />
+        MB - Madhavi <br />
+        TP - Trupti <br />
     </p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
 <div class="row">
