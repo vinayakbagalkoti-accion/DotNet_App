@@ -1,5 +1,5 @@
 ﻿@Code
-    ViewData("Title") = "Home Page By Vinayak Bagalkoti - Accion labs Bangalore"
+    ViewData("Title") = "Home Page By .Net Team(VB,RA,A,T,CK,ML,PAD) - Accion labs Bangalore - WhiteField"
 End Code
 
 <div class="jumbotron">
