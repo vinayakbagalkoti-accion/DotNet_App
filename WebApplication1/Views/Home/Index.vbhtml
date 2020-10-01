@@ -3,39 +3,22 @@
 End Code
 
 <div class="jumbotron">
-    <h2>Accion Labs - Cision Team(Bangalore/Hyderabad)</h2>
-    <p class="lead">CICD POC by .Net Team</p>
-    <p>
-        VB - Vinayak Bagalkoti <br />
-        RA - Rakesh Achar <br />
-        AK - Anoop Kumar <br />
-        CR - Chitti <br />
-        KS - Kesava <br />
-        PM - Padmaja <br />
-        SS - Shaik Saleem <br />
-        MB - Madhavi <br />
-        TP - Trupti <br />
-    </p>
-</div>
-
-<div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
+    <h2><b><span>CICD POC - Accion Labs - Cision Team(Bangalore/Hyderabad) India</span></b></h2>
+    <div class="row">
+        <img src="~/Images/TeamWork.jpg" />
+    </div>
+    <br />
+    <div class="row">
+        <p class="lead">POC By</p>
         <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
+            VB - Vinayak Bagalkoti <br />
+            RA - Rakesh Achar <br />
+            AK - Anoop Kumar <br />
+            CR - Chitti <br />
+            KS - Kesava <br />
+            PM - Padmaja <br />
+            SS - Shaik Saleem <br />
+            MB - Madhavi <br />
+            TP - Trupti <br />
         </p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-    </div>
-</div>
