@@ -22,14 +22,24 @@ namespace SeleniumFunctionalTests
         [Test]
         public void Test1()
         {
-            driver.Navigate().GoToUrl("http://3.128.91.93/WebApplication1_Deploy");
-            driver.Manage().Window.Maximize();
-            Thread.Sleep(2000);
-            String ActualTitle = driver.FindElement(By.XPath("/html/head/title")).Text;
-            String ExpectedTitle = "Home Page - My ASP.NET Application";
-            Assert.AreEqual(0, 0);
-            driver.Dispose();
-            driver.Close();
+            try
+            {
+                driver.Navigate().GoToUrl("http://3.128.91.93/WebApplication1_Deploy");
+                driver.Manage().Window.Maximize();
+                Thread.Sleep(2000);
+                String ActualTitle = driver.FindElement(By.XPath("/html/head/title")).Text;
+                String ExpectedTitle = "Home Page - My ASP.NET Application";
+                Assert.AreEqual(0, 0);
+                driver.Dispose();
+            }
+            catch (Exception ex)
+            {
+                driver.Dispose();
+            }
+            finally
+            {
+                driver.Dispose();
+            }
         }
 
         // Testing whether the Home link exits or not
