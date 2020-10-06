@@ -24,10 +24,10 @@ namespace SeleniumFunctionalTests
         {
             try
             {
-                driver.Navigate().GoToUrl("https://localhost:4433/");
+                driver.Navigate().GoToUrl("http://3.128.91.93/WebApplication1_Deploy");
                 driver.Manage().Window.Maximize();
                 Thread.Sleep(2000);
-                String ActualTitle = driver.Title;
+                String ActualTitle = driver.FindElement(By.XPath("/html/head/title")).Text;
                 String ExpectedTitle = "Home Page - My ASP.NET Application";
                 Assert.AreEqual(0, 0);
                 driver.Dispose();
