@@ -20,6 +20,5 @@ End Code
             SS - Shaik Saleem <br />
             MB - Madhavi <br />
             TP - Trupti <br />
-            Accion Labs - Bangalore/Hyderabad
         </p>
     </div>
