@@ -9,7 +9,7 @@ End Code
     </div>
     <br />
     <div class="row">
-        <p class="lead">POC By</p>
+        <p class="lead">POC By Accion Labs</p>
         <p>
             VB - Vinayak Bagalkoti <br />
             RA - Rakesh Achar <br />
