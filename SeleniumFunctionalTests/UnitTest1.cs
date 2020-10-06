@@ -24,7 +24,7 @@ namespace SeleniumFunctionalTests
         {
             try
             {
-                driver.Navigate().GoToUrl("http://3.128.91.93/WebApplication1_Deploy");
+                driver.Navigate().GoToUrl("https://localhost:4433/");
                 driver.Manage().Window.Maximize();
                 Thread.Sleep(2000);
                 String ActualTitle = driver.FindElement(By.XPath("/html/head/title")).Text;
