@@ -4,7 +4,7 @@ End Code
 
 <div class="jumbotron">
     <div class="row">
-        <p class="lead"><b><span>CICD POC - Accion Labs - Cision Team(Bangalore/Hyderabad) India</span></b></p>
+        <p class="lead"><b><span>CICD POC - Accion Labs - Cision Team(Bangalore/Hyderabad)</span></b></p>
         <img src="~/Images/TeamWork.jpg" />
     </div>
     <br />
