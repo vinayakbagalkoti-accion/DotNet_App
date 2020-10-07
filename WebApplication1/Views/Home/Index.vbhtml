@@ -3,13 +3,13 @@
 End Code
 
 <div class="jumbotron">
-    <h2><b><span>CICD POC - Accion Labs - Cision Team(Bangalore/Hyderabad) India</span></b></h2>
     <div class="row">
+        <p class="lead"><b><span>CICD POC - Accion Labs - Cision Team(Bangalore/Hyderabad) India</span></b></p>
         <img src="~/Images/TeamWork.jpg" />
     </div>
     <br />
     <div class="row">
-        <p class="lead">POC By Accion Labs</p>
+        <p class="lead">Team Members</p>
         <p>
             VB - Vinayak Bagalkoti <br />
             RA - Rakesh Achar <br />
