@@ -22,4 +22,10 @@
 
         Return View()
     End Function
+
+    Function FlowChart() As ActionResult
+        ViewData("Message") = "Flow Chart."
+
+        Return View()
+    End Function
 End Class
