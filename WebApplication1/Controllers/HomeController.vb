@@ -16,4 +16,10 @@
 
         Return View()
     End Function
+
+    Function Task() As ActionResult
+        ViewData("Message") = "Your task page."
+
+        Return View()
+    End Function
 End Class
