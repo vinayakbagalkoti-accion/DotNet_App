@@ -168,17 +168,18 @@ $.extend($.fn, {
 				if (argument.messages)
 					settings.messages[element.name] = $.extend( settings.messages[element.name], argument.messages );
 				break;
-			case "remove":
-				if (!argument) {
-					delete staticRules[element.name];
-					return existingRules;
-				}
-				var filtered = {};
-				$.each(argument.split(/\s/), function(index, method) {
-					filtered[method] = existingRules[method];
-					delete existingRules[method];
-				});
-				return filtered;
+				case "remove":
+					if (!argument) {
+						delete staticRules[element.name];
+						return existingRules;
+					}
+					var filtered = {};
+					$.each(argument.split(/\s/), function (index, method) {
+						filtered[method] = existingRules[method];
+						delete existingRules[method];
+					});
+					return filtered;
+					break;
 			}
 		}
 		
