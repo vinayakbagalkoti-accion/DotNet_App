@@ -8,7 +8,7 @@ End Code
         <img src="~/Images/TeamWork.jpg" />
     </div>
     <br />
-    <!--<div class="row">
+    <div class="row">
         <p class="lead">Team Members</p>
         <p>
             VB - Vinayak Bagalkoti <br />
@@ -21,5 +21,6 @@ End Code
             MB - Madhavi <br />
             TP - Trupti <br />
             AC - Anakal Chandrashekar <br />
+            ST - Suresh<br />
         </p>
-    </div>-->
+    </div>
