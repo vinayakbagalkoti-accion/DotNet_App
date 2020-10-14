@@ -8,6 +8,7 @@ End Code
         <img src="~/Images/TeamWork.jpg" />
     </div>
     <br />
+    <!--
     <div class="row">
         <p class="lead">Team Members</p>
         <p>
@@ -24,3 +25,4 @@ End Code
             ST - Suresh<br />
         </p>
     </div>
+        -->
